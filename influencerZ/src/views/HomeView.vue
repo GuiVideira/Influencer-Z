@@ -1,9 +1,5 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
+<script lang="ts" setup></script>
+import ViewHome from '@/components/viewHome.vue'
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <!--<ViewHome/>-->
 </template>
